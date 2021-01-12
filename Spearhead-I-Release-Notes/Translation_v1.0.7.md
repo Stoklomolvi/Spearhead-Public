@@ -1,4 +1,5 @@
-Current French translation state :
+**Current French translation state :**
+
 
 **General translations:**
 
@@ -15,16 +16,19 @@ Current French translation state :
 
 	- OKW Non-doctrinal units, armaments, building, upgrades and skills
 	- OKW Panzerjäger units, armaments, buildings, upgrades and skills
+	- USF 4th Division (Tank Destroyer) infantry units
 
 **Underway translations:**
 
 	- USF Non-doctrinal units, armaments, building, upgrades and skills
-	- USF 4th Division units, armaments, building, upgrades and skills
+	- USF 4th Division (Tank Destroyer) tanks, armaments, building, upgrades and skills
 	- Direct translation into the language file that may lead to partial translations into factions
 
 
 If any problem is found with any of our work, you can contact me on Discord (Robertoz#0911) as I take responsability for the content of this translation.
+
 Please provide screenshots so we can easily retrieve the problem into the language file.
+
 If you are interested in traducing, please contact me. The more we are, the better.
 
 
@@ -56,5 +60,7 @@ Etat actuel de la traduction française :
 
 
 Si vous trouvez une quelleconque erreur dans notre traduction, vous pouvez me contacter sur Discord (Robertoz#0911), étant le responsable du contenu de cette traduction.
+
 Nous demandons si possible des captures d'écran accompagnant ces erreurs pour nous faciliter le travail de correction.
+
 Si vous êtes intéressé pour traduire, contactez-moi. Plus on aura de bras, plus vite cela se terminera.
