@@ -9,7 +9,7 @@
 	- Buildings/Mines specs indicated at the end of descriptions (Resistance, cover provided etc for buildings/Filling, Pressure plate etc for mines)
 	- Artillery/Airstrikes/Officer abilites specs indicated at the end of descriptions (Radius, Delay, etc)
 	- Pros/Cons of most units and skills (+/- specifications indicated in the tooltips to have an idea of the unit/skill efficiency)
-	- Direct translation into the language file has been made : 3000 lines traduced and reviewed (approximatively 13.1% of the entire file)
+	- Direct translation into the language file has been made : 4000 lines traduced and reviewed (approximatively 17.5% of the entire file)
 
 *Machinegun emplacements on the vehicle might not have been completely traduced, as it may need specific context translation
 
@@ -45,7 +45,7 @@ If you are interested in traducing, please contact me. The more we are, the bett
 	- Spécifications des bâtiment/mines à la fin des descriptions (Résistance, couverture fournie etc pour les bâtiments/Remplissage, Activation etc pour les mines)
 	- Spécifications des frappes aériennes/frappes d'artillerie/compétences d'officier à la fin des descriptions (Radius, Delay, etc)
 	- Avangates et désavantages de la plupart des unités et compétences (+/- spécifications indiquées dans les bulles des unités donnant une idée de leur valeur au combat)
-	- Traductions faites directement dans le fichier langue : 3000 lignes ont été traduites et revues (approximativement 13.1% du fichier)
+	- Traductions faites directement dans le fichier langue : 4000 lignes ont été traduites et revues (approximativement 17.5% du fichier)
 
 *Les emplacements des mitrailleuses sur les chars n'ont été traités que partiellement, car la traduction nécessite parfois le contexte
 
