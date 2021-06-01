@@ -4,7 +4,7 @@ Refer to translation changelog for previous states. (https://github.com/Robertoz
 
 **General Translation :**
 
-	- Direct translation into the language file has been made : 7000 lines traduced and reviewed (approximatively 30.6% of the entire file)
+	- Direct translation into the language file has been made : 10000 lines traduced and reviewed (approximatively 43.8% of the entire file)
 
 If any problem is found with any of our work, you can contact me on Discord (Robertoz#0911) as I take responsability for the content of this translation.
 
@@ -21,7 +21,7 @@ Référez vous aux notes de mise à jour pour les parties déjà traduites. (htt
 
 **Traductions générales :**
 
-	- Traductions faites directement dans le fichier langue : 7000 lignes ont été traduites et revues (approximativement 30.6% du fichier)
+	- Traductions faites directement dans le fichier langue : 10000 lignes ont été traduites et revues (approximativement 43.8% du fichier)
 
 Si vous trouvez une quelleconque erreur dans notre traduction, vous pouvez me contacter sur Discord (Robertoz#0911), étant le responsable du contenu de cette traduction.
 
